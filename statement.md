@@ -1,4 +1,4 @@
-Project Statement: Personal Finance Tracker
+# Project Statement: Personal Finance Tracker
 
 1. Problem Statement
 
@@ -18,10 +18,10 @@ The main target user is a beginner or student who needs an easy-to-use tool for 
 
 4. High-level Features
 
-Data Input: Record income and expense transactions along with their amounts and categories.
+>Data Input: Record income and expense transactions along with their amounts and categories.
 
-Real-time Balance: Show the net financial balance that updates continuously.
+>Real-time Balance: Show the net financial balance that updates continuously.
 
-Visualization: Create a pie chart (using Matplotlib) to illustrate the breakdown of income compared to expenses.
+>Visualization: Create a pie chart (using Matplotlib) to illustrate the breakdown of income compared to expenses.
 
-Modern UI: A clean, modern graphical interface made with CustomTkinter.
+>Modern UI: A clean, modern graphical interface made with CustomTkinter.
