@@ -1,4 +1,4 @@
-#Project Statement: Personal Finance Tracker
+Project Statement: Personal Finance Tracker
 
 1. Problem Statement
 
